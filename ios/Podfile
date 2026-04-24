@@ -1,5 +1,5 @@
-# Minimum iOS sürümünü 13.0 olarak zorluyoruz
-platform :ios, '13.0'
+# Minimum iOS sürümünü ML Kit'in istediği 15.5'e yükselttik
+platform :ios, '15.5'
 
 ENV['COCOAPODS_DISABLE_STATS'] = 'true'
 
@@ -10,7 +10,6 @@ project 'Runner', {
 }
 
 def flutter_root
-  # HATA BURADAYDI, DÜZELTİLDİ: Artık doğrudan doğru klasöre (ios/Flutter) bakacak
   generated_xcode_build_settings_path = File.expand_path(File.join('Flutter', 'Generated.xcconfig'), __dir__)
   unless File.exist?(generated_xcode_build_settings_path)
     raise "#{generated_xcode_build_settings_path} must exist. If you're running pod install manually, make sure flutter pub get is executed first"
@@ -38,9 +37,9 @@ post_install do |installer|
   installer.pods_project.targets.each do |target|
     flutter_additional_ios_build_settings(target)
     
-    # Tüm eklentileri (pods) zorla iOS 13.0'a çekiyoruz ki sürüm çakışması olmasın
+    # Tüm eklentileri (pods) zorla iOS 15.5'e çekiyoruz
     target.build_configurations.each do |config|
-      config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '13.0'
+      config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '15.5'
     end
   end
 end
