@@ -7,35 +7,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:322754486531:android:0f1dd094e896376c3f4936",
-        "android_client_info": {
-          "package_name": "com.example.erzurum_kampus"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "322754486531-0kvje77b90f0vbfn6op88j01ogfju8hq.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCPCILp9okY3RP9LTrXeEiwbVMRsM1m-_I"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "322754486531-0kvje77b90f0vbfn6op88j01ogfju8hq.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:322754486531:android:ec9ff6db7043882d3f4936",
         "android_client_info": {
           "package_name": "com.example.etukampus"
@@ -58,6 +29,49 @@
             {
               "client_id": "322754486531-0kvje77b90f0vbfn6op88j01ogfju8hq.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "322754486531-70t2j1otlfesblcp81sin7hmgem3pn70.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.extrour.erzurumkampus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322754486531:android:63c9ab5693cf905e3f4936",
+        "android_client_info": {
+          "package_name": "com.extrour.erzurumkampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322754486531-0kvje77b90f0vbfn6op88j01ogfju8hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPCILp9okY3RP9LTrXeEiwbVMRsM1m-_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322754486531-0kvje77b90f0vbfn6op88j01ogfju8hq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322754486531-70t2j1otlfesblcp81sin7hmgem3pn70.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.extrour.erzurumkampus"
+              }
             }
           ]
         }
@@ -103,6 +117,13 @@
             {
               "client_id": "322754486531-0kvje77b90f0vbfn6op88j01ogfju8hq.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "322754486531-70t2j1otlfesblcp81sin7hmgem3pn70.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.extrour.erzurumkampus"
+              }
             }
           ]
         }

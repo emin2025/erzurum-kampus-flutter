@@ -1,4 +1,4 @@
-package com.example.erzurum_kampus
+package com.extrour.erzurumkampus
 
 import io.flutter.embedding.android.FlutterActivity
 
