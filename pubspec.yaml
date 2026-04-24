@@ -32,7 +32,7 @@ dependencies:
   # Ekstra Paketler
   video_thumbnail: ^0.5.6
   path_provider: ^2.1.5
-  google_mlkit_text_recognition: ^0.13.0
+  google_mlkit_text_recognition: ^0.15.1
   uuid: ^4.5.1
   http: ^1.6.0
   firebase_remote_config: ^5.5.0
