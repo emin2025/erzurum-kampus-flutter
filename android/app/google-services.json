@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "322754486531",
+    "project_id": "etucampusapp",
+    "storage_bucket": "etucampusapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322754486531:android:0f1dd094e896376c3f4936",
+        "android_client_info": {
+          "package_name": "com.example.erzurum_kampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322754486531-0kvje77b90f0vbfn6op88j01ogfju8hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPCILp9okY3RP9LTrXeEiwbVMRsM1m-_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322754486531-0kvje77b90f0vbfn6op88j01ogfju8hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322754486531:android:ec9ff6db7043882d3f4936",
+        "android_client_info": {
+          "package_name": "com.example.etukampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322754486531-0kvje77b90f0vbfn6op88j01ogfju8hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPCILp9okY3RP9LTrXeEiwbVMRsM1m-_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322754486531-0kvje77b90f0vbfn6op88j01ogfju8hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322754486531:android:646262f6c60fd63f3f4936",
+        "android_client_info": {
+          "package_name": "com.extrour.etukampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322754486531-gsh5tivhoceeaf2r4mvlqu7tpvtnskhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.extrour.etukampus",
+            "certificate_hash": "2e40fd262dfb640d467e9848233e115e23dd9e6e"
+          }
+        },
+        {
+          "client_id": "322754486531-q32j0536hj4jtpjc92k6mkc9j5svgvri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.extrour.etukampus",
+            "certificate_hash": "c5ed42ccae2e48780108e0374f8465203e5c96a3"
+          }
+        },
+        {
+          "client_id": "322754486531-0kvje77b90f0vbfn6op88j01ogfju8hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPCILp9okY3RP9LTrXeEiwbVMRsM1m-_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322754486531-0kvje77b90f0vbfn6op88j01ogfju8hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
