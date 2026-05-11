@@ -1,0 +1,33 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "etucampusapp",
+          "appId": "1:322754486531:android:0f1dd094e896376c3f4936",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "etucampusapp",
+          "configurations": {
+            "android": "1:322754486531:android:0f1dd094e896376c3f4936",
+            "ios": "1:322754486531:ios:bb97109a04a140313f4936",
+            "macos": "1:322754486531:ios:bb97109a04a140313f4936",
+            "web": "1:322754486531:web:913dcca69cbadf263f4936",
+            "windows": "1:322754486531:web:210cc50f9c0880723f4936"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

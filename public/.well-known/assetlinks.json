@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.erzurum_kampus",
+   "sha256_cert_fingerprints": [
+      "30:3d:b9:b5:45:f9:93:b2:67:d2:c7:98:dc:54:13:e7:75:86:40:16:84:9d:b5:eb:37:f5:47:be:4d:ee:af:8b",
+      "B0:FF:D3:39:B2:42:86:86:16:D7:00:D2:90:2F:D1:78:AF:B7:ED:80:C4:5D:16:E4:12:B8:9F:71:BD:C6:38:D0"
+    ]
+  }
+}]
